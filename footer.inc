@@ -13,7 +13,7 @@
 </style>
 
 <footer>
-    <p>&copy; 2025 SunnyImob. Todos os direitos reservados.</p>
+    <p>&copy; 2025 SGVendas. Todos os direitos reservados.</p>
     <p>
         Valter Barreto - 
         <i class="fas fa-phone"></i> (81) 9 8842-1455 - 

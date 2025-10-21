@@ -1,4 +1,5 @@
 <%@ Language=VBScript Codepage=65001 %>
+
 <% 
 ' Configuração UTF-8 para todo o documento
 Response.CodePage = 65001
