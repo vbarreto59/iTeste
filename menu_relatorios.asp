@@ -53,7 +53,7 @@
                 <a href="gestao_vendas_kpi3.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-chart-line me-2"></i>Relat. Vendas KPIs</h5>
+                            <h5 class="mb-0"><i class="fas fa-chart-line me-2"></i>A-Relat. Vendas KPIs</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização do Valor Geral de Vendas.</p>
@@ -69,7 +69,7 @@
                 <a href="gestao_vendas_top10.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-handshake me-2"></i>Relat. TOP 10</h5>
+                            <h5 class="mb-0"><i class="fas fa-handshake me-2"></i>B-Relat. TOP 10</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização do Valor Geral de Vendas.</p>
@@ -85,7 +85,7 @@
                 <a href="gestao_vendas_kpi5comissao.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-handshake me-2"></i>Relat. Comissões Gerais </h5>
+                            <h5 class="mb-0"><i class="fas fa-handshake me-2"></i>C-Relat. Comissões Gerais </h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização do Valor Geral de Vendas.</p>
@@ -103,7 +103,7 @@
                 <a href="gestao_vendas_relatorio1vendas.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-chart-bar me-2"></i>Relat. Vendas</h5>
+                            <h5 class="mb-0"><i class="fas fa-chart-bar me-2"></i>D-Relat. Vendas</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Detalhes completos sobre as vendas.</p>
@@ -120,7 +120,7 @@
                 <a href="gestao_vendas_geral.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-chart-bar me-2"></i>Relat. Geral</h5>
+                            <h5 class="mb-0"><i class="fas fa-chart-bar me-2"></i>D-Relat. Geral</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Detalhes completos sobre as vendas.</p>
@@ -136,7 +136,7 @@
                 <a href="gestao_corretores_mapa_vendas.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-map-marked-alt me-2"></i>Corretor - Mapa de Vendas(QTD)</h5>
+                            <h5 class="mb-0"><i class="fas fa-map-marked-alt me-2"></i>E-Corretor - Mapa de Vendas(QTD)</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização da quantidade de unidades vendidas.</p>
@@ -145,13 +145,28 @@
                         </div>
                     </div>
                 </a>
-            </div>     
+            </div>   
+
+            <div class="col-12 col-md-6 col-lg-4">
+                <a href="gestao_vendas_localidade1.asp" class="text-decoration-none" target="_blank">
+                    <div class="card h-100">
+                        <div class="card-header text-center">
+                            <h5 class="mb-0"><i class="fas fa-map-marked-alt me-2"></i>F-Venda por Localidade</h5>
+                        </div>
+                        <div class="card-body text-center d-flex flex-column">
+                            <p class="card-text">Visualização das vendas por localidades.</p>
+                            <span class="btn btn-primary btn-sm mt-auto">
+                                <i class="fas fa-arrow-right me-1"></i> Visualizar Localidades
+                        </div>
+                    </div>
+                </a>
+            </div>
 
             <div class="col-12 col-md-6 col-lg-4">
                 <a href="gestao_vendas_corretores.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>Corretor - Extrato de Vendas 1</h5>
+                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>G-Corretor - Extrato de Vendas 1</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização das vendas do corretor.</p>
@@ -168,7 +183,7 @@
                 <a href="gestao_corretores_comissoes.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>Corretor - Extrato de Vendas 2</h5>
+                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>H-Corretor - Extrato de Vendas 2</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização das comissões mensais dos corretores.</p>
@@ -185,7 +200,7 @@
                 <a href="gestao_corretores_extrato_comissoes.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>Corretor - Comissão Anual</h5>
+                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>I-Corretor - Comissão Anual</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização das comissões mensais dos corretores.</p>
@@ -201,8 +216,8 @@
                 <a href="gestao_corretores_comissoes_anual.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>Corretor - Vendas Anual</h5>
-                        </div>
+                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>J-Corretor - Vendas Anual</h5>
+                        </div>J-
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Visualização das comissões mensais dos corretores.</p>
                             <span class="btn btn-primary btn-sm mt-auto">
@@ -217,7 +232,7 @@
                 <a href="diretoria_list.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>Listagem de Diretores</h5>
+                            <h5 class="mb-0"><i class="fas fa-user-tie me-2"></i>L-Listagem de Diretores</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Lista e detalhes dos diretores da empresa.</p>
@@ -233,7 +248,7 @@
                 <a href="gerencia_list.asp" class="text-decoration-none" target="_blank">
                     <div class="card h-100">
                         <div class="card-header text-center">
-                            <h5 class="mb-0"><i class="fas fa-users me-2"></i>Listagem de Gerentes</h5>
+                            <h5 class="mb-0"><i class="fas fa-users me-2"></i>M-Listagem de Gerentes</h5>
                         </div>
                         <div class="card-body text-center d-flex flex-column">
                             <p class="card-text">Lista e detalhes dos gerentes de departamento.</p>

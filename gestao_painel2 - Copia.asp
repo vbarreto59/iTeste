@@ -9,47 +9,7 @@
 <!--#include file="atualizarVendas.asp"-->
 <!--#include file="atualizarVendas2.asp"-->
 
-
 <%
-' =========================================================================
-' === FUNÇÃO PARA DETECÇÃO DE DISPOSITIVO MÓVEL (NOVO CÓDIGO) =============
-' =========================================================================
-Function IsMobile()
-    Dim userAgent
-    userAgent = Request.ServerVariables("HTTP_USER_AGENT")
-    If IsNull(userAgent) Then userAgent = ""
-
-    ' Converte para minúsculas para facilitar a comparação
-    userAgent = LCase(userAgent)
-
-    ' Lista de palavras-chave comuns de dispositivos móveis
-    ' Você pode adicionar mais palavras-chave conforme necessário.
-    Dim mobileKeywords
-    mobileKeywords = Array("mobile", "android", "iphone", "ipod", "blackberry", "windows phone", "iemobile", "opera mini", "symbian", "webos")
-
-    Dim keyword
-    IsMobile = False ' Assume não ser móvel por padrão
-
-    ' Percorre a lista de palavras-chave
-    For Each keyword In mobileKeywords
-        If InStr(userAgent, keyword) > 0 Then
-            IsMobile = True ' Palavra-chave encontrada, é móvel
-            Exit For
-        End If
-    Next
-End Function
-
-Dim vendasFile
-
-' Define o arquivo de vendas com base no resultado da função IsMobile()
-If IsMobile() Then
-    ' O arquivo para visualização em celular
-    vendasFile = "gestao_vendas_list_mob1.asp"
-Else
-    ' O arquivo padrão para visualização em desktop
-    vendasFile = "gestao_vendas_list2r.asp"
-End If
-
 '============================= LOG ============================================'
 if (request.ServerVariables("remote_addr") <> "127.0.0.1") AND (request.ServerVariables("remote_addr") <> "::1") then
     set objMail = server.createobject("CDONTS.NewMail")
@@ -186,8 +146,7 @@ End if
                     </div>
                     <div class="card-body text-center d-flex flex-column">
                         <p class="card-text">Gerenciamento de Vendas</p>
-                        
-                                                <a href="<%= vendasFile %>" class="btn btn-primary btn-sm mt-auto" target="_blank">
+                        <a href="gestao_vendas_list2r.asp" class="btn btn-primary btn-sm mt-auto" target="_blank">
                             <i class="fas fa-arrow-right me-1"></i> Acessar
                         </a>
                     </div>
