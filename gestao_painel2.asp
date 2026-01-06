@@ -5,6 +5,7 @@
 <!-- CODIGO_ARQUIVO: WVLHTQCGWG          -->
 <!-- OBS: Alterado em 12 12 2025 Organização dos cards     -->
 <!-- ###################################### -->
+
 <%@LANGUAGE="VBSCRIPT" CODEPAGE="65001"%>
 <%if Trim(StrConn)="" then%>
      <!--#include file="conexao.asp"-->
