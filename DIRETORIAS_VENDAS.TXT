@@ -1,0 +1,8 @@
+DIRETORIO_VENDAS_BLOQUEADO
+Data/Hora: 05/12/2025 10:43:49
+Bloqueado por: BARRETO
+IP: ::1
+Mensagem: O acesso ao diretório de vendas está temporariamente bloqueado para manutenção.
+
+Este arquivo bloqueia o acesso ao diretório de vendas.
+Para liberar o acesso, exclua este arquivo.

@@ -1,0 +1,158 @@
+/* Estilo principal do menu */
+/* Estilo principal do menu */
+#menu {
+  font-family: Arial, sans-serif;
+  background-color: #0099CC !important; /* Azul principal */
+  color: #FFF; /* Texto branco */
+  height: 45px;
+  padding-left: 18px;
+  border-radius: 10px;
+  overflow: hidden; /* Evita elementos "quebrados" */
+}
+
+/* Removendo margens/padding padrão das listas */
+#menu ul, #menu li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Configuração da lista principal */
+#menu ul {
+  width: 100%;
+}
+
+/* Itens do menu */
+#menu li {
+  float: left;
+  position: relative;
+}
+
+/* Links principais */
+#menu a {
+  display: block;
+  line-height: 45px;
+  padding: 0 14px;
+  text-decoration: none;
+  color: #FFF; /* Branco */
+  font-size: 17px;
+}
+
+/* Adicionando seta para dropdown */
+#menu a.dropdown-arrow:after {
+  content: "\25BE";
+  margin-left: 5px;
+}
+
+/* Hover dos links */
+#menu li a:hover {
+  background: #F2F2F2; /* Fundo claro */
+  color: #0099CC; /* Azul claro */
+}
+
+/* Entrada de menu responsivo */
+#menu input {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 45px;
+  width: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Rótulo para menu responsivo */
+#menu label {
+  display: none;
+  line-height: 45px;
+  text-align: center;
+  position: absolute;
+  left: 35px;
+}
+
+/* Ícone do menu responsivo */
+#menu label:before {
+  font-size: 1.6em;
+  content: "\2261"; 
+  margin-left: 20px;
+}
+
+/* Submenus */
+#menu ul.sub-menus {
+  height: auto;
+  overflow: hidden;
+  width: 170px;
+  background: #444; /* Fundo cinza escuro */
+  position: absolute;
+  z-index: 99;
+  display: none;
+}
+
+#menu ul.sub-menus li {
+  display: block;
+  width: 100%;
+}
+
+/* Links dos submenus */
+#menu ul.sub-menus a {
+  color: #FFF; /* Branco */
+  font-size: 16px;
+}
+
+/* Hover dos submenus */
+#menu ul.sub-menus a:hover {
+  background: #F2F2F2; /* Fundo claro */
+  color: #444; /* Texto cinza escuro */
+}
+
+/* Exibir submenus ao passar o mouse */
+#menu li:hover ul.sub-menus {
+  display: block;
+}
+
+/* Estilo responsivo */
+@media screen and (max-width: 800px) {
+  #menu {
+    position: relative;
+  }
+  #menu ul {
+    background: #111; /* Preto */
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    z-index: 3;
+    height: auto;
+    display: none;
+  }
+  #menu ul.sub-menus {
+    width: 100%;
+    position: static;
+  }
+  #menu ul.sub-menus a {
+    padding-left: 30px;
+  }
+  #menu li {
+    display: block;
+    float: none;
+    width: auto;
+  }
+  #menu input, #menu label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+  }
+  #menu input {
+    z-index: 4;
+  }
+  #menu input:checked + label {
+    color: white;
+  }
+  #menu input:checked + label:before {
+    content: "\00d7"; /* Ícone de "X" */
+  }
+  #menu input:checked ~ ul {
+    display: block;
+  }
+}

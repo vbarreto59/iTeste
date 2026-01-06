@@ -1,0 +1,148 @@
+/*
+ * Variáveis CSS para Cores
+ * ---
+ * Definimos uma paleta de cores para facilitar a manutenção.
+ * Você pode alterar esses valores para mudar o esquema de cores do site inteiro.
+ */
+:root {
+    --fundo-principal: #E4F0F6;
+    --fundo-secundario: #ffffff;
+    --cor-primaria: #85444F; /* Bordô primário */
+    --cor-secundaria: #85444F; /* Cinza secundário */
+    --texto-principal: #333333;
+    --texto-secundario: #666666;
+    --card-titulo-fundo: var(--cor-primaria);
+    --card-titulo-fonte: #FFFFFF;
+
+    --sombra-leve: 0 4px 6px rgba(0, 0, 0, 0.08);
+    --sombra-card: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+/*
+ * Estilos Globais e do Corpo da Página
+ * ---
+ * Define o estilo base da página, como cor de fundo, fonte e alinhamento geral.
+ */
+body {
+    background-color: var(--fundo-principal);
+    color: var(--texto-principal);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/*
+ * Estilo da Barra de Navegação
+ * ---
+ * Remove o fundo gradiente e a borda para um visual mais leve.
+ * Usa o fundo secundário branco para um contraste suave com o fundo da página.
+ */
+.navbar {
+    background-color: var(--fundo-secundario);
+    box-shadow: var(--sombra-leve);
+}
+
+.navbar-brand, .nav-link {
+    color: var(--texto-principal) !important;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    color: var(--cor-primaria) !important;
+}
+
+/*
+ * Estilo da Seção de Boas-Vindas
+ * ---
+ * Simplifica o fundo e o texto para um visual mais limpo e direto.
+ */
+.welcome-section {
+    background-color: var(--cor-primaria);
+    color: #ffffff;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.welcome-section h1 {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/*
+ * Estilo dos Cards (Blocos de Informação)
+ * ---
+ * Cria um design minimalista com cantos arredondados, fundo branco e uma sombra suave.
+ * Adiciona um efeito de transição para uma experiência mais fluida.
+ */
+.card {
+    background-color: var(--fundo-secundario);
+    border: 1px solid #90848A;
+    border-radius: 8px;
+    box-shadow: var(--sombra-card);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: var(--card-titulo-fundo);
+    border-bottom: 1px solid #e9ecef;
+    color: var(--card-titulo-fonte);
+    font-weight: 600;
+}
+
+.card-body {
+    color: var(--texto-secundario);
+}
+
+.card-body .text-primary {
+    color: var(--cor-primaria) !important;
+}
+
+/*
+ * Estilo do Botão Principal
+ * ---
+ * Botão com cor primária para destacar a ação principal.
+ */
+.btn-primary {
+    background-color: var(--cor-primaria);
+    border-color: var(--cor-primaria);
+    color: #ffffff;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    transform: scale(1.02);
+}
+
+/*
+ * Estilo do Rodapé
+ * ---
+ * Define um rodapé simples com fundo branco e texto secundário.
+ */
+footer {
+    background-color: var(--fundo-secundario);
+    color: var(--texto-secundario);
+    border-top: 1px solid #e9ecef;
+    padding: 20px 0;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.03);
+}
+
+.social-icons a {
+    color: var(--texto-secundario);
+    transition: color 0.2s;
+}
+
+.social-icons a:hover {
+    color: var(--cor-primaria);
+}

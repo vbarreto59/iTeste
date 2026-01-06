@@ -1,0 +1,425 @@
+08/12/2025 11:05:40 - === INÍCIO SALVAMENTO METAS ===
+08/12/2025 11:05:40 - ANO: 2026 | MES: 1 | USUARIO: BARRETO
+08/12/2025 11:05:40 - INSERT -> GerenciaID:4 DiretoriaID: Valor:10.00
+08/12/2025 11:05:41 - SQLINSERT -> INSERT INTO MetaGerencia (GerenciaID, DiretoriaID, Ano, Mes, ValorMeta, Usuario) VALUES (4, , 2026, 1, 10.00, 'BARRETO')
+08/12/2025 11:05:41 - COMMIT - Total processado: 1
+08/12/2025 11:05:41 - === FIM SALVAMENTO METAS ===
+08/12/2025 11:10:13 - === INÍCIO SALVAMENTO METAS ===
+08/12/2025 11:10:13 - ANO: 2026 | MES: 1 | USUARIO: BARRETO
+08/12/2025 11:17:50 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:17:50 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:17:50 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:17:50 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:17:50 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:17:50 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:17:50 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:17:50 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:17:51 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:17:51 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:17:51 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:17:51 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:17:51 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:17:51 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:17:51 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:17:51 - === INÍCIO SALVAMENTO METAS ===
+08/12/2025 11:17:51 - ANO: 2026 | MES: 1 | USUARIO: BARRETO
+08/12/2025 11:17:52 - INSERT -> GerenciaID:4 DiretoriaID: Valor:100000.00
+08/12/2025 11:17:52 - SQLINSERT -> INSERT INTO MetaGerencia (GerenciaID, DiretoriaID, Ano, Mes, ValorMeta, Usuario) VALUES (4, , 2026, 1, 100000.00, 'BARRETO')
+08/12/2025 11:17:52 - COMMIT - Total processado: 1
+08/12/2025 11:17:52 - === FIM SALVAMENTO METAS ===
+08/12/2025 11:17:52 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:17:52 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:17:53 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:17:53 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:17:53 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:17:53 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:17:53 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:17:53 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:17:53 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:17:53 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:17:53 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:17:53 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:17:53 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:17:54 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:17:54 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:20:24 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:21:04 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:22:58 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:22:58 - Recuperando Diretoria: 
+08/12/2025 11:22:58 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:22:58 - Recuperando Diretoria: 
+08/12/2025 11:22:58 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:22:58 - Recuperando Diretoria: 
+08/12/2025 11:22:59 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:22:59 - Recuperando Diretoria: 
+08/12/2025 11:22:59 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:22:59 - Recuperando Diretoria: 
+08/12/2025 11:22:59 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:22:59 - Recuperando Diretoria: 
+08/12/2025 11:22:59 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:22:59 - Recuperando Diretoria: 
+08/12/2025 11:22:59 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:22:59 - Recuperando Diretoria: 
+08/12/2025 11:22:59 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:23:00 - Recuperando Diretoria: 
+08/12/2025 11:23:00 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:23:00 - Recuperando Diretoria: 
+08/12/2025 11:23:00 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:23:00 - Recuperando Diretoria: 
+08/12/2025 11:23:00 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:23:00 - Recuperando Diretoria: 
+08/12/2025 11:23:00 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:23:00 - Recuperando Diretoria: 
+08/12/2025 11:23:00 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:23:00 - Recuperando Diretoria: 
+08/12/2025 11:23:01 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:23:01 - Recuperando Diretoria: 
+08/12/2025 11:24:56 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:26:04 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:27:11 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:27:48 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:27:48 - Recuperando Diretoria: 2
+08/12/2025 11:27:48 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:27:48 - Recuperando Diretoria: 1
+08/12/2025 11:27:48 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:27:48 - Recuperando Diretoria: 2
+08/12/2025 11:27:48 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:27:48 - Recuperando Diretoria: 2
+08/12/2025 11:27:49 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:27:49 - Recuperando Diretoria: 1
+08/12/2025 11:27:49 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:27:49 - Recuperando Diretoria: 3
+08/12/2025 11:27:49 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:27:49 - Recuperando Diretoria: 4
+08/12/2025 11:27:49 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:27:49 - Recuperando Diretoria: 2
+08/12/2025 11:27:49 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:27:49 - Recuperando Diretoria: 4
+08/12/2025 11:27:49 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:27:49 - Recuperando Diretoria: 4
+08/12/2025 11:27:50 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:27:50 - Recuperando Diretoria: 1
+08/12/2025 11:27:50 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:27:50 - Recuperando Diretoria: 1
+08/12/2025 11:27:50 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:27:50 - Recuperando Diretoria: 1
+08/12/2025 11:27:50 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:27:50 - Recuperando Diretoria: 2
+08/12/2025 11:27:50 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:27:50 - Recuperando Diretoria: 1
+08/12/2025 11:29:43 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:29:43 - Recuperando Diretoria: 2
+08/12/2025 11:29:43 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:29:43 - Recuperando Diretoria: 1
+08/12/2025 11:29:43 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:29:44 - Recuperando Diretoria: 2
+08/12/2025 11:29:44 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:29:44 - Recuperando Diretoria: 2
+08/12/2025 11:29:44 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:29:44 - Recuperando Diretoria: 1
+08/12/2025 11:29:44 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:29:44 - Recuperando Diretoria: 3
+08/12/2025 11:29:44 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:29:44 - Recuperando Diretoria: 4
+08/12/2025 11:29:44 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:29:45 - Recuperando Diretoria: 2
+08/12/2025 11:29:45 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:29:45 - Recuperando Diretoria: 4
+08/12/2025 11:29:45 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:29:45 - Recuperando Diretoria: 4
+08/12/2025 11:29:45 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:29:45 - Recuperando Diretoria: 1
+08/12/2025 11:29:45 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:29:45 - Recuperando Diretoria: 1
+08/12/2025 11:29:46 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:29:46 - Recuperando Diretoria: 1
+08/12/2025 11:29:46 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:29:46 - Recuperando Diretoria: 2
+08/12/2025 11:29:46 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:29:46 - Recuperando Diretoria: 1
+08/12/2025 11:29:59 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:29:59 - Recuperando Diretoria: 2
+08/12/2025 11:29:59 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:30:00 - Recuperando Diretoria: 1
+08/12/2025 11:30:00 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:30:00 - Recuperando Diretoria: 2
+08/12/2025 11:30:00 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:30:00 - Recuperando Diretoria: 2
+08/12/2025 11:30:00 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:30:00 - Recuperando Diretoria: 1
+08/12/2025 11:30:00 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:30:00 - Recuperando Diretoria: 3
+08/12/2025 11:30:00 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:30:00 - Recuperando Diretoria: 4
+08/12/2025 11:30:01 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:30:01 - Recuperando Diretoria: 2
+08/12/2025 11:30:01 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:30:01 - Recuperando Diretoria: 4
+08/12/2025 11:30:01 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:30:01 - Recuperando Diretoria: 4
+08/12/2025 11:30:01 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:30:01 - Recuperando Diretoria: 1
+08/12/2025 11:30:01 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:30:01 - Recuperando Diretoria: 1
+08/12/2025 11:30:01 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:30:02 - Recuperando Diretoria: 1
+08/12/2025 11:30:02 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:30:02 - Recuperando Diretoria: 2
+08/12/2025 11:30:02 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:30:02 - Recuperando Diretoria: 1
+08/12/2025 11:30:02 - === INÍCIO SALVAMENTO METAS ===
+08/12/2025 11:30:02 - ANO: 2026 | MES: 1 | USUARIO: BARRETO
+08/12/2025 11:30:03 - INSERT -> GerenciaID:4 DiretoriaID: Valor:11.11
+08/12/2025 11:30:03 - SQLINSERT -> INSERT INTO MetaGerencia (GerenciaID, DiretoriaID, Ano, Mes, ValorMeta, Usuario) VALUES (4, , 2026, 1, 11.11, 'BARRETO')
+08/12/2025 11:30:03 - COMMIT - Total processado: 1
+08/12/2025 11:30:03 - === FIM SALVAMENTO METAS ===
+08/12/2025 11:30:03 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:30:03 - Recuperando Diretoria: 2
+08/12/2025 11:30:03 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:30:03 - Recuperando Diretoria: 1
+08/12/2025 11:30:04 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:30:04 - Recuperando Diretoria: 2
+08/12/2025 11:30:04 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:30:04 - Recuperando Diretoria: 2
+08/12/2025 11:30:04 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:30:04 - Recuperando Diretoria: 1
+08/12/2025 11:30:04 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:30:04 - Recuperando Diretoria: 3
+08/12/2025 11:30:04 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:30:04 - Recuperando Diretoria: 4
+08/12/2025 11:30:05 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:30:05 - Recuperando Diretoria: 2
+08/12/2025 11:30:05 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:30:05 - Recuperando Diretoria: 4
+08/12/2025 11:30:05 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:30:05 - Recuperando Diretoria: 4
+08/12/2025 11:30:05 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:30:05 - Recuperando Diretoria: 1
+08/12/2025 11:30:05 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:30:05 - Recuperando Diretoria: 1
+08/12/2025 11:30:05 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:30:06 - Recuperando Diretoria: 1
+08/12/2025 11:30:06 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:30:06 - Recuperando Diretoria: 2
+08/12/2025 11:30:06 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:30:06 - Recuperando Diretoria: 1
+08/12/2025 11:35:09 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:35:09 - Recuperando Diretoria: 2
+08/12/2025 11:35:09 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:35:09 - Recuperando Diretoria: 1
+08/12/2025 11:35:09 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:35:09 - Recuperando Diretoria: 2
+08/12/2025 11:35:09 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:35:10 - Recuperando Diretoria: 2
+08/12/2025 11:35:10 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:35:10 - Recuperando Diretoria: 1
+08/12/2025 11:35:10 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:35:10 - Recuperando Diretoria: 3
+08/12/2025 11:35:10 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:35:10 - Recuperando Diretoria: 4
+08/12/2025 11:35:10 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:35:10 - Recuperando Diretoria: 2
+08/12/2025 11:35:10 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:35:10 - Recuperando Diretoria: 4
+08/12/2025 11:35:11 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:35:11 - Recuperando Diretoria: 4
+08/12/2025 11:35:11 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:35:11 - Recuperando Diretoria: 1
+08/12/2025 11:35:11 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:35:11 - Recuperando Diretoria: 1
+08/12/2025 11:35:11 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:35:11 - Recuperando Diretoria: 1
+08/12/2025 11:35:11 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:35:11 - Recuperando Diretoria: 2
+08/12/2025 11:35:11 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:35:12 - Recuperando Diretoria: 1
+08/12/2025 11:35:13 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:35:13 - Recuperando Diretoria: 2
+08/12/2025 11:35:13 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:35:13 - Recuperando Diretoria: 1
+08/12/2025 11:35:13 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:35:13 - Recuperando Diretoria: 2
+08/12/2025 11:35:13 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:35:13 - Recuperando Diretoria: 2
+08/12/2025 11:35:13 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:35:13 - Recuperando Diretoria: 1
+08/12/2025 11:35:14 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:35:14 - Recuperando Diretoria: 3
+08/12/2025 11:35:14 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:35:14 - Recuperando Diretoria: 4
+08/12/2025 11:35:14 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:35:14 - Recuperando Diretoria: 2
+08/12/2025 11:35:14 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:35:14 - Recuperando Diretoria: 4
+08/12/2025 11:35:14 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:35:14 - Recuperando Diretoria: 4
+08/12/2025 11:35:14 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:35:15 - Recuperando Diretoria: 1
+08/12/2025 11:35:15 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:35:15 - Recuperando Diretoria: 1
+08/12/2025 11:35:15 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:35:15 - Recuperando Diretoria: 1
+08/12/2025 11:35:15 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:35:15 - Recuperando Diretoria: 2
+08/12/2025 11:35:15 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:35:15 - Recuperando Diretoria: 1
+08/12/2025 11:35:24 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:35:24 - Recuperando Diretoria: 2
+08/12/2025 11:35:24 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:35:24 - Recuperando Diretoria: 1
+08/12/2025 11:35:25 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:35:25 - Recuperando Diretoria: 2
+08/12/2025 11:35:25 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:35:25 - Recuperando Diretoria: 2
+08/12/2025 11:35:25 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:35:25 - Recuperando Diretoria: 1
+08/12/2025 11:35:25 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:35:25 - Recuperando Diretoria: 3
+08/12/2025 11:35:25 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:35:25 - Recuperando Diretoria: 4
+08/12/2025 11:35:25 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:35:26 - Recuperando Diretoria: 2
+08/12/2025 11:35:26 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:35:26 - Recuperando Diretoria: 4
+08/12/2025 11:35:26 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:35:26 - Recuperando Diretoria: 4
+08/12/2025 11:35:26 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:35:26 - Recuperando Diretoria: 1
+08/12/2025 11:35:26 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:35:26 - Recuperando Diretoria: 1
+08/12/2025 11:35:26 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:35:26 - Recuperando Diretoria: 1
+08/12/2025 11:35:27 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:35:27 - Recuperando Diretoria: 2
+08/12/2025 11:35:27 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:35:27 - Recuperando Diretoria: 1
+08/12/2025 11:35:27 - === INÍCIO SALVAMENTO METAS ===
+08/12/2025 11:35:27 - ANO: 2026 | MES: 12 | USUARIO: BARRETO
+08/12/2025 11:35:27 - PROCESSANDO - Campo: gerencia4 | GerID: 4 | Valor: 10000000
+08/12/2025 11:35:28 - EXECUTANDO INSERT: INSERT INTO MetaGerencia (GerenciaID, DiretoriaID, Ano, Mes, ValorMeta, Usuario, DataHora) VALUES (4, , 2026, 12, 10.000.000.00, 'BARRETO', GETDATE())
+08/12/2025 11:35:28 - ERRO INSERT: Erro de sintaxe na instrução INSERT INTO.
+08/12/2025 11:35:28 - COMMIT - Total processado: 0
+08/12/2025 11:35:28 - === FIM SALVAMENTO METAS ===
+08/12/2025 11:35:28 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:35:28 - Recuperando Diretoria: 2
+08/12/2025 11:35:28 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:35:29 - Recuperando Diretoria: 1
+08/12/2025 11:35:29 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:35:29 - Recuperando Diretoria: 2
+08/12/2025 11:35:29 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:35:29 - Recuperando Diretoria: 2
+08/12/2025 11:35:29 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:35:29 - Recuperando Diretoria: 1
+08/12/2025 11:35:29 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:35:29 - Recuperando Diretoria: 3
+08/12/2025 11:35:29 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:35:29 - Recuperando Diretoria: 4
+08/12/2025 11:35:30 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:35:30 - Recuperando Diretoria: 2
+08/12/2025 11:35:30 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:35:30 - Recuperando Diretoria: 4
+08/12/2025 11:35:30 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:35:30 - Recuperando Diretoria: 4
+08/12/2025 11:35:30 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:35:30 - Recuperando Diretoria: 1
+08/12/2025 11:35:30 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:35:30 - Recuperando Diretoria: 1
+08/12/2025 11:35:30 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:35:31 - Recuperando Diretoria: 1
+08/12/2025 11:35:31 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:35:31 - Recuperando Diretoria: 2
+08/12/2025 11:35:31 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:35:31 - Recuperando Diretoria: 1
+08/12/2025 11:41:01 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:41:01 - Recuperando Diretoria: 2
+08/12/2025 11:41:01 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:41:01 - Recuperando Diretoria: 1
+08/12/2025 11:41:01 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:41:02 - Recuperando Diretoria: 2
+08/12/2025 11:41:02 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:41:02 - Recuperando Diretoria: 2
+08/12/2025 11:41:02 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:41:02 - Recuperando Diretoria: 1
+08/12/2025 11:41:02 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:41:02 - Recuperando Diretoria: 3
+08/12/2025 11:41:02 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:41:02 - Recuperando Diretoria: 4
+08/12/2025 11:41:02 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:41:02 - Recuperando Diretoria: 2
+08/12/2025 11:41:03 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:41:03 - Recuperando Diretoria: 4
+08/12/2025 11:41:03 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:41:03 - Recuperando Diretoria: 4
+08/12/2025 11:41:03 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:41:03 - Recuperando Diretoria: 1
+08/12/2025 11:41:03 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:41:03 - Recuperando Diretoria: 1
+08/12/2025 11:41:03 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:41:03 - Recuperando Diretoria: 1
+08/12/2025 11:41:03 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:41:03 - Recuperando Diretoria: 2
+08/12/2025 11:41:04 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:41:04 - Recuperando Diretoria: 1
+08/12/2025 11:43:27 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:43:27 - Recuperando Diretoria: 2
+08/12/2025 11:43:27 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:43:27 - Recuperando Diretoria: 1
+08/12/2025 11:43:27 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:43:27 - Recuperando Diretoria: 2
+08/12/2025 11:43:28 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:43:28 - Recuperando Diretoria: 2
+08/12/2025 11:43:28 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:43:28 - Recuperando Diretoria: 1
+08/12/2025 11:43:28 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:43:28 - Recuperando Diretoria: 3
+08/12/2025 11:43:28 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:43:28 - Recuperando Diretoria: 4
+08/12/2025 11:43:28 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:43:28 - Recuperando Diretoria: 2
+08/12/2025 11:43:28 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:43:29 - Recuperando Diretoria: 4
+08/12/2025 11:43:29 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:43:29 - Recuperando Diretoria: 4
+08/12/2025 11:43:29 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:43:29 - Recuperando Diretoria: 1
+08/12/2025 11:43:29 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:43:29 - Recuperando Diretoria: 1
+08/12/2025 11:43:29 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:43:29 - Recuperando Diretoria: 1
+08/12/2025 11:43:29 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:43:29 - Recuperando Diretoria: 2
+08/12/2025 11:43:29 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:43:30 - Recuperando Diretoria: 1
+08/12/2025 11:43:37 - Gerencia: ALTO DA SÉ Diretoria: 2
+08/12/2025 11:43:38 - Recuperando Diretoria: 2
+08/12/2025 11:43:38 - Gerencia: CHIVUNK Diretoria: 1
+08/12/2025 11:43:38 - Recuperando Diretoria: 1
+08/12/2025 11:43:38 - Gerencia: EFATA Diretoria: 2
+08/12/2025 11:43:38 - Recuperando Diretoria: 2
+08/12/2025 11:43:38 - Gerencia: FENIX Diretoria: 2
+08/12/2025 11:43:38 - Recuperando Diretoria: 2
+08/12/2025 11:43:38 - Gerencia: FLOW Diretoria: 1
+08/12/2025 11:43:38 - Recuperando Diretoria: 1
+08/12/2025 11:43:38 - Gerencia: GESTAO_ADM Diretoria: 3
+08/12/2025 11:43:39 - Recuperando Diretoria: 3
+08/12/2025 11:43:39 - Gerencia: KRATUS Diretoria: 4
+08/12/2025 11:43:39 - Recuperando Diretoria: 4
+08/12/2025 11:43:39 - Gerencia: KRATUS Diretoria: 2
+08/12/2025 11:43:39 - Recuperando Diretoria: 2
+08/12/2025 11:43:39 - Gerencia: Legacy  Diretoria: 4
+08/12/2025 11:43:39 - Recuperando Diretoria: 4
+08/12/2025 11:43:39 - Gerencia: LONGBEACH Diretoria: 4
+08/12/2025 11:43:39 - Recuperando Diretoria: 4
+08/12/2025 11:43:39 - Gerencia: OCEANS Diretoria: 1
+08/12/2025 11:43:39 - Recuperando Diretoria: 1
+08/12/2025 11:43:40 - Gerencia: PARADISE Diretoria: 1
+08/12/2025 11:43:40 - Recuperando Diretoria: 1
+08/12/2025 11:43:40 - Gerencia: PRIME HOUSE Diretoria: 1
+08/12/2025 11:43:40 - Recuperando Diretoria: 1
+08/12/2025 11:43:40 - Gerencia: VERAS Diretoria: 2
+08/12/2025 11:43:40 - Recuperando Diretoria: 2
+08/12/2025 11:43:40 - Gerencia: VILARIM Diretoria: 1
+08/12/2025 11:43:40 - Recuperando Diretoria: 1
+08/12/2025 11:43:41 - === INÍCIO SALVAMENTO METAS ===
+08/12/2025 11:43:41 - ANO: 2026 | MES: 12 | USUARIO: BARRETO
+08/12/2025 11:43:41 - === VERIFICAÇÃO DICIONÁRIO NO POST ===
